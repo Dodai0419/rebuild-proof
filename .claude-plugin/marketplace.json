@@ -1,0 +1,13 @@
+{
+  "name": "rebuild-proof",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "rebuild-proof",
+      "source": "./",
+      "description": "Ten free skills that rebuild any web app as your own, and prove how close you got."
+    }
+  ]
+}

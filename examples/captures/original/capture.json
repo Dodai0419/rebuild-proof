@@ -1,0 +1,33 @@
+{
+ "title": "Harbor Notes",
+ "text": "Harbor Notes Features Pricing Sign in A logbook that keeps up with the boat Write once. Tides, crew and fuel fall into place. Start a note Tide tables Every port's high and low water in your log. Crew list Who is aboard, and what they are on watch for. Fuel use Litres per mile, worked out from your entries. Harbor Notes is a made-up app for this example.",
+ "headings": [
+  "A logbook that keeps up with the boat",
+  "Tide tables",
+  "Crew list",
+  "Fuel use"
+ ],
+ "outline": [
+  "header",
+  "nav",
+  "link",
+  "link",
+  "link",
+  "main",
+  "section",
+  "h1",
+  "button",
+  "section",
+  "h2",
+  "h2",
+  "h2",
+  "footer"
+ ],
+ "actions": [
+  "Features",
+  "Pricing",
+  "Sign in",
+  "Start a note"
+ ],
+ "url": "examples\\original.html"
+}

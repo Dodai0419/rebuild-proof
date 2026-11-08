@@ -1,0 +1,12 @@
+Third-party notices
+
+The layout diff and the feature parity score are ported from
+Jakeschincariol/replica-skill, used under the MIT License:
+  Copyright (c) 2026 Jake Schincariol
+
+The screens-to-stories flow and the idea of measuring screenshots come from
+daveebbelaar/bama, used under the MIT License:
+  Copyright (c) 2026 Dave Ebbelaar
+
+Both portions are provided under the same MIT permission notice and warranty
+disclaimer printed above, which applies to them with their authors' copyright.

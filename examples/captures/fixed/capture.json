@@ -1,0 +1,33 @@
+{
+ "title": "Deckhand",
+ "text": "Deckhand Features Pricing Sign in Your passage log, written as you sail One entry fills in the tide, watch and fuel pages. New entry High water Heights and times for the harbours on your route. Watch bill Names on board and who has the next four hours. Fuel burn Consumption per mile, taken from each day's log. Deckhand was invented to show how this tool works.",
+ "headings": [
+  "Your passage log, written as you sail",
+  "High water",
+  "Watch bill",
+  "Fuel burn"
+ ],
+ "outline": [
+  "header",
+  "nav",
+  "link",
+  "link",
+  "link",
+  "main",
+  "section",
+  "h1",
+  "button",
+  "section",
+  "h2",
+  "h2",
+  "h2",
+  "footer"
+ ],
+ "actions": [
+  "Features",
+  "Pricing",
+  "Sign in",
+  "New entry"
+ ],
+ "url": "examples/fixed.html"
+}

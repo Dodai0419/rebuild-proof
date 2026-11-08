@@ -1,0 +1,29 @@
+{
+ "title": "Harbor Notes",
+ "text": "Harbor Notes Features Sign in A logbook for boats Tides, crew and fuel. Start a note Tide tables High and low water. Crew list Who is aboard. Harbor Notes is a made-up app for this example.",
+ "headings": [
+  "A logbook for boats",
+  "Tide tables",
+  "Crew list"
+ ],
+ "outline": [
+  "header",
+  "nav",
+  "link",
+  "link",
+  "main",
+  "section",
+  "h1",
+  "button",
+  "section",
+  "h2",
+  "h2",
+  "footer"
+ ],
+ "actions": [
+  "Features",
+  "Sign in",
+  "Start a note"
+ ],
+ "url": "examples\\first-try.html"
+}

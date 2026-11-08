@@ -1,0 +1,8 @@
+feature,area,priority,original,clone,notes
+See the home screen,home,must,yes,yes,
+Start a new note,home,must,yes,yes,
+Sign in,account,must,yes,yes,
+Tide tables,logbook,should,yes,yes,
+Crew list,logbook,should,yes,partial,no watch rota yet
+Fuel use,logbook,could,yes,no,
+Offline mode,logbook,could,no,yes,ours: the original has none
